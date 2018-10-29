@@ -10,6 +10,7 @@ public class Addition {
 	{
 		int x;
 		x=a+b;
+		x=a-b;
 		x=0;
 		x=5/0;
 		System.out.println("Addition of two int numbers: " + x) ;
